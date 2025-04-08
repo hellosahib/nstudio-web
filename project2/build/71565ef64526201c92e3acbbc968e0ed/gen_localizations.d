@@ -1,0 +1,1 @@
+ /Users/sahib/FlutterProjects/nstudio_flutter/nstudio/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/sahib/FlutterProjects/nstudio_flutter/nstudio/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/sahib/FlutterProjects/nstudio_flutter/nstudio/l10n.yaml /Users/sahib/FlutterProjects/nstudio_flutter/nstudio/lib/src/localization/app_en.arb
